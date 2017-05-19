@@ -1,0 +1,10 @@
+---
+addr: ":4000"
+title: "hello world"
+theme: green
+debug: true
+xheaders: true
+key: key.pem
+cert: cert.pem
+auth-type: http
+auth-http: admin:fubar 
